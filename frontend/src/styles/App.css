@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+@font-face {
+  font-family: 'Museo';
+  src: url("../fonts/MuseoSansCyrl300.ttf");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Museo';
+  src: url("../fonts/MuseoSansCyrl500.ttf");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Museo';
+  src: url("../fonts/MuseoSansCyrl500.ttf");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CircularStd';
+  src: url("../fonts/CircularStd-Medium.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CircularStd';
+  src: url("../fonts/CircularStd-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+}
+
+html {
+  font-family: 'CircularStd';
+  font-weight: 400;
+  scroll-behavior: smooth;
+
+}
+
+.Container {
+  max-width: 1107px;
+  margin: 0 auto;
+}
+
+.App {
+  scroll-behavior: smooth;
+}

@@ -1,0 +1,17 @@
+.Documents {
+  min-height: 550px;
+  background: #1ea5ee;
+  padding: 20px;
+}
+
+.DocumentsContainer {
+  max-width: 1107px;
+  margin: 0 auto;
+}
+
+.DocumentsHeader {
+  color: #fff;
+  font-size: 48px;
+  text-align: center;
+  font-weight: 700;
+}

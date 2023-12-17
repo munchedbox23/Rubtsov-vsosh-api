@@ -1,0 +1,24 @@
+.News {
+  min-height: 550px;
+  background: #1ea5ee;
+  padding: 30px;
+}
+
+.NewsHeader {
+  color: #fff;
+  font-size: 48px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.NewsContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 50px;
+}
+
+.NewsCont {
+  max-width: 1107px;
+  margin: 0 auto;
+}

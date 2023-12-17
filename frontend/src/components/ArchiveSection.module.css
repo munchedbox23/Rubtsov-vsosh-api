@@ -1,0 +1,13 @@
+.Archive {
+  min-height: 550px;
+  background-color: #1ea5ee;
+  padding: 30px 0;
+}
+
+.ArchiveHeader {
+  color: #fff;
+  font-size: 40px;
+  width: 1107px;
+  text-align: center;
+  margin-bottom: 40px;
+}

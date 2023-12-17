@@ -1,0 +1,22 @@
+.ArchiveContainer {
+  max-width: 1107px;
+  margin: 0 auto;
+}
+
+.ArchiveHeader {
+  color: #fff;
+  font-size: 40px;
+  width: 1107px;
+  text-align: center;
+  margin-bottom: 40px
+}
+
+.ArchiveWrapper {
+  display: flex;
+  gap: 30px;
+}
+
+.ArchiveContent {
+  display: flex;
+  gap: 50px;
+}

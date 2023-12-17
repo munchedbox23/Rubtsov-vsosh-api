@@ -1,0 +1,24 @@
+.FormBtns {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.FormBtn,
+.FormLink{
+  text-transform: capitalize;
+  font-size: 18px;
+  border: none;
+  width: 120px;
+  height: 30px;
+  background-color: #fff;
+  border-radius: 40px;
+  text-align: center;
+  color: #333;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.FormBtn:hover {
+  transform: scale(1.03);
+}

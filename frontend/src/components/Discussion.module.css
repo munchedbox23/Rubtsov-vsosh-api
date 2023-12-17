@@ -1,0 +1,94 @@
+.Discussion {
+  position: relative;
+  min-height: 450px;
+  padding: 20px;
+  background: #1ea5ee;
+}
+
+.DiscussionContainer {
+  min-width: 1007px;
+  margin: 0 auto;
+}
+
+.DiscussionTitle {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: 250px;
+  font-weight: 500;
+  height: 60px;
+  background: #D9D9D9;
+  border: none;
+  font-size: 25px;
+  margin-bottom: 76px;
+}
+
+.DiscussionContent {
+  display: flex;
+  align-items: center;
+  gap: 200px;
+}
+
+.CommentPerson {
+  color: aliceblue;
+  font-size: 24px;
+}
+
+.Comment {
+  max-width: 650px;
+  min-height: 20px;
+  color: #000;
+  background: #D9D9D9;
+  padding: 7px 15px;
+  border-radius: 20px;
+  word-wrap: break-word; /* Добавляем свойство word-wrap */
+  overflow: hidden;
+}
+
+.Discussions {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  margin-bottom: 40px;
+}
+
+.DiscussionBtn {
+  text-align: center;
+  background: #D9D9D9;
+  font-size: 18px;
+  color: #af1d1d;
+  cursor: pointer;
+  height: 30px;
+  display: block;
+  margin: 0 auto;
+  border: none;
+  border-radius: 20px;
+  padding: 5px 15px;
+}
+
+.CommentInput {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.CloseButton {
+  position: absolute;
+  right: 30px;
+  top: 10px;
+  color: #000;
+  font-size: 20px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.DeleteButton {
+  width: 100px;
+  min-height: 20px;
+  color: #000;
+  background: #ec8686;
+  padding: 7px;
+  border-radius: 20px;
+  border: none;
+  overflow: hidden;
+}

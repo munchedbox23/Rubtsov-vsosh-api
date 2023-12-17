@@ -1,0 +1,17 @@
+.Header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  background: #fff;
+  height: 50px;
+}
+
+.HeaderPhysics {
+  height: 100px;
+  padding-top: 55px;
+  font-size: 30px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #1894D9;
+}
